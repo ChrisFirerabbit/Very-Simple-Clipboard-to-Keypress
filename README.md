@@ -4,7 +4,7 @@ A very simple script that presses keystrokes associated with the clipboard messa
 Probably isn't even worth uploading but whatevers.
 
 ## Setup
-
+(Can skip if just running .exe)
 ```
 pip3 install pyperclip
 pip3 install keyboard
